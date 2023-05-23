@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #fffaf5;
+}
+.name{
+    width: 100%;
+    height: 45px;
+    background: #73A9AD;
+}
+
+.celeste{
+    margin: 10px 500px;
+    font-family:'Rubik', sans-serif;
+    font-size: 30px;
+    color: #F8F6F4;
+    text-align: center;
+}
+.nombre{
+    color: #537188;
+    font-family: 'Fira Sans', sans-serif;
+}
+.info{
+    width: 90%;
+    height: auto;
+    background: #C1D0B5;
+    margin: auto;
+    border-radius: 20px;
+}
+.img {
+    position: absolute;
+    top: 15%;
+    right: 8%;
+    width: 150px;
+    height: 170px;
+    border-radius: 100%;
+    margin-bottom: 0;
+}
+
+.verde{
+    background: #537188;
+    color: #F8F6F4;
+    width: 13%;
+    border-radius: 20px;
+    
+}
+.perfil{
+    color: #537188;
+}
+.persona{
+    background: #537188;
+    color: #F8F6F4;
+    width: 20%;
+    text-align: justify;
+}
+.lugar{
+    color: #537188;
+}
+.ecu{
+    background: #537188;
+    color: #F8F6F4;
+    width: 16%;
+}
+.resi{
+    color: #537188;
+}
+.se{
+    background: #537188;
+    color: #F8F6F4;
+    width: 11%;
+}
+.educacion{
+    color: #537188;
+}
+.ciclo{
+    background: #537188;
+    color: #F8F6F4;
+    width: 13%;
+}
+.formacion{
+    color: #537188;
+}
+.superior{
+    background: #537188;
+    color: #F8F6F4;
+    width: 30%;
+}
+.contacto{
+    color: #537188;
+}
+.correo{
+    background: #537188;
+    color: #F8F6F4;
+    width: 15%;
+}
+
+.actu{
+    width: 100%;
+    height: 70px;
+    background: #73A9AD;
+}
+
+.ultima{
+    color: #F8F6F4;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+.realizado{
+    color: #F8F6F4;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: 2px #FDFEFE dashed;
+}
